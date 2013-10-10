@@ -1,12 +1,12 @@
-# revision 27490
+# revision 30736
 # category Package
 # catalog-ctan /macros/latex/contrib/biblatex-contrib/oscola
-# catalog-date 2012-08-20 08:49:07 +0200
+# catalog-date 2013-05-24 20:35:56 +0200
 # catalog-license lppl1.3
 # catalog-version 1
 Name:		texlive-oscola
 Version:	1
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for the Oxford Standard for the Citation of Legal Authorities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/oscola
@@ -41,8 +41,9 @@ conjunction with appropriate indexing packages).
 %{_texmfdistdir}/tex/latex/oscola/oscola.bbx
 %{_texmfdistdir}/tex/latex/oscola/oscola.cbx
 %doc %{_texmfdistdir}/doc/latex/oscola/README
-%doc %{_texmfdistdir}/doc/latex/oscola/README.TEXLIVE
 %doc %{_texmfdistdir}/doc/latex/oscola/oscola-examples.bib
+%doc %{_texmfdistdir}/doc/latex/oscola/oscola.pdf
+%doc %{_texmfdistdir}/doc/latex/oscola/oscola.tex
 
 #-----------------------------------------------------------------------
 %prep
