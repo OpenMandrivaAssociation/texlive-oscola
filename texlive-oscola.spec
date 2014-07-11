@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-oscola
 Version:	1.4
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for the Oxford Standard for the Citation of Legal Authorities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/oscola
