@@ -3,7 +3,7 @@ Version:	54328
 Release:	2
 Summary:	BibLaTeX style for the Oxford Standard for the Citation of Legal Authorities
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/oscola
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/oscola
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/oscola.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/oscola.doc.r%{version}.tar.xz
